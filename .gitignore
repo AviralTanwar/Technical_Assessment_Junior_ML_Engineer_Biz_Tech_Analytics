@@ -5,7 +5,7 @@ env/
 .task_venv/
 
 # Datasets
-Datasets/
+Dataset/
 # Byte-compiled / cached / compiled files
 __pycache__/
 *.py[cod]
