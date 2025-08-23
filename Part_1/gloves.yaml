@@ -1,8 +1,0 @@
-path: C:/Users/avira/Documents/Restart_Skills_v2025/GitHub/Technical_Assessment_Junior_ML_Engineer_Biz_Tech_Analytics/Dataset
-
-train: train
-val: valid
-test: test
-
-nc: 2
-names: ["bare_hand", "gloved_hand"]
